@@ -1,0 +1,8 @@
+.idea
+venv
+
+__pycache__
+*.jpg
+*.mp4
+
+.pytest
